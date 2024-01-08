@@ -68,6 +68,7 @@ English | [简体中文](README_zh-CN.md)
 
 ## Introduction
 
+MMdetection is an open-source object detection framework that provides a comprehensive set of pre-trained models, datasets, and tools for various object detection tasks. It is developed by the Multimedia Laboratory (MMlab) at the Chinese University of Hong Kong. MMdetection is built on top of the PyTorch deep learning framework and is widely used by researchers and practitioners in the computer vision community.
 MMDetection is an open source object detection toolbox based on PyTorch. It is
 a part of the [OpenMMLab](https://openmmlab.com/) project.
 
